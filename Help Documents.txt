@@ -1,0 +1,4 @@
+SQL Help Documents
+
+PHPMyAdmin - Cannot Connect, Invalid Settings Error
+http://stackoverflow.com/questions/32237044/i-cant-access-xampp-phpmyadmin-it-says-error-mysql-said-documentation-cannot
