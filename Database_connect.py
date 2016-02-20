@@ -3,6 +3,7 @@
 #Run Mamp -> Start Servers
 #Ensure correct port is being used.
 
+
 #Set Database Configs
 user="root"
 password="password"
