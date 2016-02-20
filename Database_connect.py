@@ -3,14 +3,12 @@
 #Run Mamp -> Start Servers
 #Ensure correct port is being used.
 
-
 #Set Database Configs
 user="root"
 password="password"
 host="localhost"
 port="8889"
 database="mysql"
-
 
 import mysql.connector
 from mysql.connector import Error
